@@ -1,0 +1,16 @@
+---
+title: "Linear models"
+author: "Jasmine Niu (jn2855)"
+date: "2022-11-10"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(p8105.datasets)
+
+set.seed(1)
+```
+
